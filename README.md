@@ -1,2 +1,4 @@
-# hello-world
-this is a hello world program
+#include <stdio.h>
+main(){
+printf("HELLO WORLD");
+}
